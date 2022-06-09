@@ -1,6 +1,6 @@
 # Movie-Recommendation-Tool
 
-In this repository, I have built Movie Recommendation System that recommend the movies name according to the user's given input.(movie name, keyword, theme, etc)
+In this repository, I have built Movie Recommendation Tool that recommend the movies name according to the user's given input.(movie name, keyword, theme, etc)
 
 ### Recommendattion system
 
